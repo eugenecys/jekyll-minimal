@@ -1,6 +1,7 @@
 # Site settings
-title: Jekyll-Minimal
-description: 'Jekyll-Minimal - a responsive Jekyll theme that minimizes its loading impact'
+title: Eugene Chiong
+introduction: Hi, I'm Eugene Chiong 
+description: A software engineer living in the Bay Area, I build stuff in my spare time, take photos, or go out and try new things.
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
@@ -16,9 +17,9 @@ defaults:
   -
     scope:
       path: ''
-      type: 'posts'
+      type: 'default'
     values:
-        layout: 'post'
+        layout: 'default'
 
 # Build settings
 destination: _site
