@@ -39,7 +39,7 @@ var render = (function (window) {
             cell_size: 90,
             variance: 1,
             stroke_width: 1,
-            x_colors: 'random',
+            x_colors: 'Spectral',
             y_colors: 'random'
         }).svg(); // Render as SVG.
 
